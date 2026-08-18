@@ -17,7 +17,7 @@ const barlowCondensed = Barlow_Condensed({
 
 export const metadata: Metadata = {
   // TODO: Swap in client's brand name and description
-  title: "TECHSKIN — Premium Device Protection",
+  title: "SOLLABSTECH Demo",
   description: "Bold. Precise. Unstoppable device protection for the gadgets you actually love.",
 };
 

@@ -3,7 +3,7 @@
 // Images below are royalty-free from Unsplash — safe for demo use.
 // Swap each `image:` value with the client's real photography for production.
 
-export const BRAND_NAME = "TECHSKIN"; // TODO: client brand name
+export const BRAND_NAME = "SOLLABSTECH"; // TODO: client brand name
 export const ACCENT_COLOR = "#ff6a00"; // TODO: client accent color
 
 // Unsplash base helper — keeps URLs DRY
